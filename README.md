@@ -1,3 +1,9 @@
+## Project Structure
+| File | Purpose |
+|------|---------|
+| `catalogue_file_generation.py` | Step 1 — Generates the dummy 108-row product catalogue dataset |
+| `catalogue_final_audit.py` | Step 2 — Runs the quality audit and completeness scoring |
+| `catalogue_audit_report.xlsx` | Step 3 — Final formatted Excel output with 3-tab report |
 # Catalogue Quality Audit Tool
 
 A Python-based audit tool built for e-commerce/B2B catalogue operations.
